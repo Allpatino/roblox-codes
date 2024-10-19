@@ -1,0 +1,22 @@
+{
+    "150LIKES": {
+        "RewardType": "Robux",
+        "RewardValue": 100000000,
+        "Active": true
+    },
+    "300LIKES": {
+        "RewardType": "Booth",
+        "RewardValue": "FancyBooth",
+        "Active": true
+    },
+    "WELCOME10": {
+        "RewardType": "Robux",
+        "RewardValue": 10000000,
+        "Active": true
+    },
+    "NOWAYTHISREAL": {
+        "RewardType": "Badge",
+        "RewardValue": 2122353572772025,
+        "Active": true
+    }
+}
