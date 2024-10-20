@@ -18,5 +18,10 @@
         "RewardType": "Badge",
         "RewardValue": 2122353572772025,
         "Active": true
+    },
+    "SPOOKY": {
+        "RewardType": "Robux",
+        "RewardValue": 500000000,
+        "Active": true
     }
 }
