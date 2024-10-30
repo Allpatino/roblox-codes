@@ -1,7 +1,7 @@
 {
     "150LIKES": {
         "RewardType": "Robux",
-        "RewardValue": 100000000,
+        "RewardValue": 500000000,
         "Active": true
     },
     "300LIKES": {
@@ -11,7 +11,7 @@
     },
     "WELCOME10": {
         "RewardType": "Robux",
-        "RewardValue": 10000000,
+        "RewardValue": 250000000,
         "Active": true
     },
     "NOWAYTHISREAL": {
@@ -19,7 +19,42 @@
         "RewardValue": 2122353572772025,
         "Active": true
     },
-    "SPOOKY": {
+    "Wood": {
+        "RewardType": "Robux",
+        "RewardValue": 200000000,
+        "Active": true
+    },
+    "Bobux": {
+        "RewardType": "Robux",
+        "RewardValue": 250000000,
+        "Active": true
+    },
+    "IZYONTOP": {
+        "RewardType": "Robux",
+        "RewardValue": 100000000,
+        "Active": true
+    },
+    "285Stairs": {
+        "RewardType": "Robux",
+        "RewardValue": 285000000,
+        "Active": true
+    },
+    "140Stairs": {
+        "RewardType": "Robux",
+        "RewardValue": 140000000,
+        "Active": true
+    },
+    "Bruh": {
+        "RewardType": "Robux",
+        "RewardValue": 10000000,
+        "Active": true
+    },
+    "IMSMARTBOY": {
+        "RewardType": "Badge",
+        "RewardValue": 609698262790051,
+        "Active": true
+    },
+    "40kvisits": {
         "RewardType": "Robux",
         "RewardValue": 500000000,
         "Active": true
