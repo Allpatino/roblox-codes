@@ -19,12 +19,12 @@
         "RewardValue": 2122353572772025,
         "Active": true
     },
-    "Wood": {
+    "WOOD": {
         "RewardType": "Robux",
         "RewardValue": 200000000,
         "Active": true
     },
-    "Bobux": {
+    "BOBUX": {
         "RewardType": "Robux",
         "RewardValue": 250000000,
         "Active": true
@@ -39,12 +39,12 @@
         "RewardValue": 285000000,
         "Active": true
     },
-    "140Stairs": {
+    "145Stairs": {
         "RewardType": "Robux",
-        "RewardValue": 140000000,
+        "RewardValue": 145000000,
         "Active": true
     },
-    "Bruh": {
+    "BRUH": {
         "RewardType": "Robux",
         "RewardValue": 10000000,
         "Active": true
