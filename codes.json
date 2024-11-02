@@ -58,5 +58,10 @@
         "RewardType": "Robux",
         "RewardValue": 500000000,
         "Active": true
+    },
+    "140Stairs": {
+        "RewardType": "Robux",
+        "RewardValue": 140000000,
+        "Active": true
     }
 }
